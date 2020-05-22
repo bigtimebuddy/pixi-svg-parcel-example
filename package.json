@@ -1,0 +1,18 @@
+{
+  "name": "pixi-svg-parcel-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "parcel build src/index.html -d dist --no-minify",
+    "watch": "parcel watch src/index.html -d dist"
+  },
+  "keywords": [],
+  "author": "Matt Karl <matt@mattkarl.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "pixi-svg": "^2.1.0",
+    "pixi.js": "^5.2.4"
+  }
+}
