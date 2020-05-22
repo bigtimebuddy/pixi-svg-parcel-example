@@ -4016,9 +4016,9 @@ physical-cpu-count@^2.0.0:
   integrity sha1-GN4vl+S/epVRrXURlCtUlverpmA=
 
 pixi-svg@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/pixi-svg/-/pixi-svg-2.1.0.tgz#622e7e29869d201ab98b1967d068a1ccec323686"
-  integrity sha512-FDTNawUJ8taz6p44OgY1iKwCA5QXArANHrzV5IUjFSuIRt7dRYa1xI2bpe7IWb1dAbr98OtOZRd4jMdx6/Spbg==
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/pixi-svg/-/pixi-svg-2.1.1.tgz#7bbdb0f1128ec576737409e5ec63c7ba3c8e6021"
+  integrity sha512-WP2Z5ZbFQbD6obiFQ5V8kuIUkVYm2LUSDrXka7IZkaO5QRWRrELI1IyvKc/IegB9pUJbGDnRxra3U8HTZH/UkA==
   dependencies:
     d-path-parser "^1.0.0"
     tinycolor2 "^1.4.1"
